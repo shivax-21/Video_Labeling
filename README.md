@@ -2,7 +2,7 @@
 To run this code, follow these steps:
 
 1. Navigate to the folder.
-2. Copy the Code, from the repository.
+2. Copy the Code, from `Video_labelling_script.py` or `Video_labelling_script_2.py` .
 3. Open Google Colab.
 4. Install the necessary libraries:
 ``` bash
