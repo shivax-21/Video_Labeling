@@ -1,5 +1,5 @@
 # Video_Labelling
-To run this code, follow these steps:
+User Guide:
 
 1. Navigate to the folder.
 2. Copy the Code, from `Video_labelling_script.py` or `Video_labelling_script_2.py` .
