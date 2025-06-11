@@ -1,4 +1,4 @@
-# Video_Labelling
+# Video_Labeling
 User Guide:
 
 1. Navigate to the folder.
